@@ -1,3 +1,7 @@
+#https://github.com/unknowngalexy/lab11-HJ-NW.git
+#Partner 1: Hyrum Johnston
+#Partner 2: Ningxuan Wang
+
 import unittest
 from calculator import *
 

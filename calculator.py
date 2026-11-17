@@ -1,9 +1,6 @@
-"""
-calculator.py
-- Defines functions used to create a simple calculator
-
-One function per operation, in order.
-"""
+#https://github.com/unknowngalexy/lab11-HJ-NW.git
+#Partner 1: Hyrum Johnston
+#Partner 2: Ningxuan Wang
 
 import math
 
